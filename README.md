@@ -14,9 +14,9 @@ Hi, I'm Soo — a creative thinker, cultural researcher, and media & tourism mas
 > How can we design emotionally engaging, culturally rooted experiences that matter?
 
 🛠️ Languages:  
-- 🇨🇳 Chinese (native)  
-- 🇯🇵 Japanese (N1)  
-- 🌐 English (fluent)
+- 🇨🇳 Chinese 
+- 🇯🇵 Japanese 
+- 🌐 English 
 
 📬 Let’s connect and create something meaningful.
 
