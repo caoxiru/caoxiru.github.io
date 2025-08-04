@@ -174,7 +174,7 @@ Welcome to my QQ space
     </p>
   </section>
   <footer>
-    Feel free to contact me
+    Feel free to contact me ：）
   </footer>
 </body>
 </html>
